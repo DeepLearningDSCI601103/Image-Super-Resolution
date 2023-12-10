@@ -22,11 +22,17 @@ We have Utilized DIV2k for training the models and Urban100 for testing.
 
 ### Installation
 You will need the following to run the above:
-Python 
-tensorflow 
-keras 
-numpy 
-tqdm
+
+Python  
+
+tensorflow   
+
+keras   
+
+numpy   
+
+tqdm  
+
 matplotlib, skimage, scipy
 
 ## File Structure
