@@ -14,8 +14,8 @@ Data sets and softwares to be installed are provided below to set up and deploy 
 
 ### Prerequisites
 Download datasets from below links:
-DIV2K  -- https://www.kaggle.com/datasets/joe1995/div2k-dataset
-Urban100 --https://www.kaggle.com/datasets/jesucristo/super-resolution-benchmarks
+DIV2K  -- https://www.kaggle.com/datasets/joe1995/div2k-dataset.
+Urban100 --https://www.kaggle.com/datasets/jesucristo/super-resolution-benchmarks.
 We have Utilized DIV2k for training the models and Urban100 for testing.
 
 ### Installation
@@ -28,8 +28,8 @@ tqdm
 matplotlib, skimage, scipy
 
 ## File Structure
-ISR_VDSR.py : 
-ISR_EDSR.py : 
+ISR_VDSR.py : Contains preprocessing of the data and models with basic ISR with CNN and VDSR
+ISR_EDSR.py : Contains EDSR model 
 
 ## Output
 Below are few results
