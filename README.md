@@ -25,13 +25,18 @@ You will need the following to run the above:
 
 Python  
 
+
 tensorflow   
+
 
 keras   
 
+
 numpy   
 
+
 tqdm  
+
 
 matplotlib, skimage, scipy
 
