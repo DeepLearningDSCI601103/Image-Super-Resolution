@@ -21,7 +21,7 @@ Urban100 --https://www.kaggle.com/datasets/jesucristo/super-resolution-benchmark
 We have Utilized DIV2k for training the models and Urban100 for testing.  
 
 ### Installation
-You will need the following to run the above:
+You will need the following to run files:
 
 Python  
 
